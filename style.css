@@ -1,0 +1,49 @@
+
+body{
+    background-color: white;
+}
+
+.logo {
+    color: black;
+    font-family: 'Courier New', Courier, monospace ;
+    text-decoration: none;
+}
+.logo:hover{
+    color: orangered;
+}
+.logolink{
+    color: orangered;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    border: 5px solid orange;
+    background-color: white;
+}
+.headline{
+    margin: 10px;
+    color: black;
+    font-size: 30px;
+}
+.photoshop{
+    border: 3px solid orange;
+    text-decoration: none;
+}
+.text1{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    margin: 10px;
+    display: flex;
+}
+.icon1{
+    height: 120px;
+    float: left;
+    margin: 15px;
+    display: flex;
+}
+.headadobe{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
